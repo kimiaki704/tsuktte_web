@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b1eebb-7de9-426f-a803-eb381ef38e00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/common.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/tl.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/tl.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/tl/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tl/index.html.haml" afterDir="false" />
     </list>
@@ -29,7 +31,7 @@
           <entry key="haml" value="6" />
           <entry key="lock" value="1" />
           <entry key="md" value="4" />
-          <entry key="png" value="5" />
+          <entry key="png" value="14" />
           <entry key="rb" value="5" />
           <entry key="scss" value="5" />
           <entry key="sh" value="1" />
@@ -42,7 +44,7 @@
           <entry key="CSS" value="1" />
           <entry key="Dockerfile" value="1" />
           <entry key="Haml" value="6" />
-          <entry key="Image" value="5" />
+          <entry key="Image" value="14" />
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="RHTML" value="1" />
@@ -56,21 +58,21 @@
           <entry key="Dockerfile" value="7" />
           <entry key="Gemfile" value="15" />
           <entry key="gitignore" value="26" />
-          <entry key="haml" value="334" />
+          <entry key="haml" value="530" />
           <entry key="md" value="3" />
           <entry key="rb" value="169" />
-          <entry key="scss" value="215" />
+          <entry key="scss" value="450" />
           <entry key="yml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dockerfile" value="7" />
-          <entry key="Haml" value="334" />
+          <entry key="Haml" value="530" />
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="26" />
           <entry key="Ruby" value="184" />
-          <entry key="SCSS" value="215" />
+          <entry key="SCSS" value="450" />
           <entry key="YAML" value="8" />
         </counts>
       </usages-collector>
@@ -92,10 +94,15 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/tl/index.html.haml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+                <state relative-caret-position="105">
+                  <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/btn_hoshiina.png">
+              <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
         </leaf>
@@ -105,8 +112,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/common.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="6" selection-start-column="6" selection-end-column="6" />
+                <state relative-caret-position="105">
+                  <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -114,20 +121,10 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/tl.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+                <state relative-caret-position="435">
+                  <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/header_copy.png">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/header_logo.png">
-              <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
         </leaf>
@@ -149,7 +146,6 @@
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/common.scss" />
         <option value="$PROJECT_DIR$/app/views/partials/_header.html.haml" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/header.scss" />
         <option value="$PROJECT_DIR$/Gemfile" />
@@ -158,6 +154,7 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/tl/index.html.haml" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/common.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/tl.scss" />
       </list>
     </option>
@@ -252,7 +249,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/suzukikimiaki/tsuktte_web/.gitignore" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566132237280" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566136720923" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -314,12 +311,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566108211409</updated>
-      <workItem from="1566108217826" duration="8373000" />
+      <workItem from="1566108217826" duration="10455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8373000" />
+    <option name="totallyTimeSpent" value="10455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,18 +329,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1416" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="デザイナー" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI デザイナー" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Docker" weight="0.32903865" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32903865" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32903865" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -502,20 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/common.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="52" selection-start-column="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/header_bg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -525,17 +509,58 @@
     <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/header_logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/pat02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/pat01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/icon_tsukutta.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/icon_hoshiina.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/icon_tsukurun.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/btn_tsukutte.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/btn_tsukutta.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/btn_tsukurun.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/web_pc/btn_hoshiina.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tl/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="105">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/tl.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="435">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>

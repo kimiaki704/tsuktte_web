@@ -4,4 +4,38 @@
     text-align: center;
     margin-bottom: 24px;
   }
+  section.post-actions {
+    display: flex;
+    justify-content: center;
+    background-image: image-url('web_pc/pat01');
+    color: white;
+    font-size: 24px;
+    padding-bottom: 24.5px;
+    p {
+      line-height: 24px;
+      margin-bottom: 15px;
+    }
+  }
+  .tsukutte-action, .tsukuru-action {
+    display: flex;
+    img {
+      object-fit: contain;
+      margin-right: 10px;
+    }
+  }
+  .tsukutte-action {
+    margin-right: 65.7px;
+    .icon {
+      margin-top: 26px;
+    }
+  }
+  .tsukuru-action .icon {
+    margin-top: 79px;
+  }
+  .tsukutte-button, .tsukuru-button {
+    position: relative;
+    bottom: -10px;
+    text-align: center;
+    margin-top: 66px;
+  }
 }
