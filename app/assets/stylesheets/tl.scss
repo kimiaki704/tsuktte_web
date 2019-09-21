@@ -83,4 +83,21 @@
     right: 20px;
     bottom: 20px;
   }
+  section.technical-support {
+    position: relative;
+    background-image: image-url('web_pc/pat03');
+    text-align: center;
+    padding: 50px 0 26px;
+    p {
+      position: absolute;
+      top: 31px;
+      left: 0;
+      right: 0;
+      color: #0D004D;
+      font-size: 30px;
+    }
+  }
+  .technical-support-container {
+    filter: grayscale(1);
+  }
 }
