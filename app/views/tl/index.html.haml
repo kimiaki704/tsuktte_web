@@ -15,3 +15,19 @@
       .tsukuru-button
         %p ツクルンはこちら！
         = image_tag 'web_pc/btn_tsukurun'
+
+  %section.notification
+    .notification-container
+      %div
+        = image_tag 'web_pc/icon_info'
+        = image_tag 'web_pc/ttl_info'
+
+      .twitter-container
+        = image_tag 'web_pc/pin', class: "pin-left-top"
+        = image_tag 'web_pc/pin', class: "pin-right-top"
+        = image_tag 'web_pc/pin', class: "pin-left-bottom"
+        = image_tag 'web_pc/pin', class: "pin-right-bottom"
+        .twitter-inner
+          %a.twitter-timeline{href: "https://twitter.com/tsuktte_news?ref_src=twsrc%5Etfw", data: {lang: "ja", height: "500", theme: "light", link: {color: "#2B7BB9"}}}
+            Tweets by tsuktte_news
+          %script{async: true, src: "https://platform.twitter.com/widgets.js", charset: "utf-8"}

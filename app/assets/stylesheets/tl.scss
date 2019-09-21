@@ -38,4 +38,49 @@
     text-align: center;
     margin-top: 66px;
   }
+  section.notification {
+    background-image: image-url('web_pc/pat02');
+    text-align: center;
+    padding: 47px 0;
+  }
+  .notification-container {
+    display: inline-block;
+    div {
+      display: flex;
+    }
+    img {
+      object-fit: none;
+    }
+  }
+  .twitter-container {
+    position: relative;
+    background-color: #0D004D;
+    border-radius: 24px;
+    border: solid 8px #FFB300;
+    padding: 28px 92px;
+  }
+  .twitter-inner iframe {
+    width: 600px !important;
+    height: 340px !important;
+  }
+  .pin-left-top {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  .pin-right-top {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  .pin-left-bottom {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+  }
+  .pin-right-bottom {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+  }
 }
